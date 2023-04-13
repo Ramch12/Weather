@@ -1,0 +1,6 @@
+{"level":"info","message":{"Place_Name":"Mughal Sarāi","air_pressure":1010,"description":"clear sky","humidity":21,"temprature":30.180000000000007,"visibility":10,"wind_speed":13.32}}
+{"level":"info","message":{"Place_Name":"Patna","air_pressure":1013,"description":"haze","humidity":47,"temprature":27.139999999999986,"visibility":3.5,"wind_speed":5.5440000000000005}}
+{"level":"error","message":"logger is not defined"}
+{"level":"error","message":"logger is not defined"}
+{"level":"info","message":{"Place_Name":"Mughal Sarāi","air_pressure":1013,"description":"clear sky","humidity":18,"temprature":27.180000000000007,"visibility":10,"wind_speed":13.932}}
+{"level":"info","message":{"Place_Name":"Mughal Sarāi","air_pressure":1008,"description":"clear sky","humidity":10,"temprature":38.18000000000001,"visibility":10,"wind_speed":19.224}}
